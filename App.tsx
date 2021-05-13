@@ -62,3 +62,12 @@ const App = createBottomTabNavigator(
 
 
 export default withErrorBoundary(createAppContainer(App));
+
+
+
+
+
+
+
+//comment1
+//comment2
